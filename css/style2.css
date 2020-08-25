@@ -1,0 +1,83 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family:inherit;
+}
+
+header{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../4.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.naveen{
+  font-size: 14px;
+  color: #fff;
+  position: absolute;
+  top:45%;
+  left:15%;
+}
+.lingkash{
+  font-size: 14px;
+  color:#fff;
+  position: absolute;
+  top:45%;
+  left:42%;
+
+}
+.kiru{
+  font-size: 14px;
+  color:#fff;
+  position: absolute;
+  top:47%;
+  left:75%;
+}
+.lerish{
+  font-size: 14px;
+  color:#fff;
+  position: absolute;
+  top:90%;
+  left:30%;
+}
+.srikanth{
+  font-size: 14px;
+  color:#fff;
+  position: absolute;
+  top:90%;
+  left:60%;
+}
+.kir img{
+  position: absolute;
+  top:5%;
+  left:72%;
+  width: 175px;
+  height: auto;
+}
+.nav img{
+  position: absolute;
+  top:5%;
+  left:12%;
+  width: 175px;
+  height: auto;
+}
+.link img{
+  position: absolute;
+  top:5%;
+  left:42%;
+  width: 175px;
+  height: auto;
+}
+.ler img{
+  position: absolute;
+  top:55%;
+  left:28%;
+  width: 200px;
+  height: auto;
+}
+.sri img{
+  position: absolute;
+  top:55%;
+  left:60%;
+  width: 160px;
+  height: auto;
+}
